@@ -1,0 +1,1 @@
+# property-graph-consistency-rule-mining
