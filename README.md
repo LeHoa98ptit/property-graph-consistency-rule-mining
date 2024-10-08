@@ -1,6 +1,6 @@
 # Graph Consistency Rule Mining with LLMs: an Exploratory Study
 
-This repository contains code and data for mining consistency rules in property graphs. It includes various methods applied to datasets from different domains.
+This repository contains code and data for mining consistency rules in property graphs using LLMs. It includes various methods applied to datasets from different domains.
 
 ## Repository Structure
 
