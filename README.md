@@ -23,7 +23,7 @@ To run the notebooks, follow these steps:
 
 1. **Model Requirement**: To run the notebooks for the RAG method, you need to have the model file "all-MiniLM-L6-v2-f16.gguf" in the "/mode" directory.
 
-2. Navigate to the folder containing the notebook you wish to run (e.g., "/CyberSecurity" or "/WWC-2019").
+2. Navigate to the folder containing the notebook you wish to run (e.g., "/CyberSecurity/Cyber_Window" or "/WWC-2019/RAG_WWC").
 
 3. Launch the Jupyter notebook server by running:
 
